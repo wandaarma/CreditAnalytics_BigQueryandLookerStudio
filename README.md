@@ -1,4 +1,4 @@
-# 📊 Credit Analytics Dashboard with BigQuery & Looker Studio
+# 📊 User and Credit Transaction Analytics with BigQuery & Looker Studio
 
 ## 🔎 Project Overview
 This project aims to perform **cleaning, transformation, and analysis data** from a credit card dataset (transactions, users, and cards).  
